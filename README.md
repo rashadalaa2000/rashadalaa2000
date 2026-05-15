@@ -72,4 +72,4 @@ Star Schema Design · ETL Pipelines · RFM Segmentation · KPI Reporting · Anom
 
 ---
 
-- 🎯 **Target Role:** Junior Data Analyst | Business Intelligence Analyst
+# **Target Role:** Junior Data Analyst | Business Intelligence Analyst
