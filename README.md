@@ -21,6 +21,10 @@ My finance background provides me with a unique business perspective, ensuring t
 
 ---
 
+## 🎯 Target Roles
+![Junior Data Analyst](https://img.shields.io/badge/Junior%20Data%20Analyst-0A66C2?style=flat-square) ![Business Intelligence Analyst](https://img.shields.io/badge/Business%20Intelligence%20Analyst-F2C811?style=flat-square&logoColor=black)
+
+---
 ## 🛠️ Tech Stack
 
 **Databases & Modeling**  
@@ -70,8 +74,5 @@ Star Schema Design · ETL Pipelines · RFM Segmentation · KPI Reporting · Anom
 **SQL Server · Power BI · Data Modeling**
 
 
----
 
-## **Target Role:** Junior Data Analyst | Business Intelligence Analyst
 
----
