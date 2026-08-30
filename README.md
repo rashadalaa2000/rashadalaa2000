@@ -53,26 +53,24 @@ Star Schema Design · ETL Pipelines · RFM Segmentation · KPI Reporting · Anom
 
 ## 📂 Featured Projects
 
+### 🏦 [Aviation Analytics](https://github.com/rashadalaa2000/bts-flight-analytics-powerbi)
+**Galaxy Schema · Data Modeling · Power BI · DAX**
+
+
+---
+
+### 🚚 [Supply Chain Analytics & B2B Data Warehouse](https://github.com/rashadalaa2000/Supply-Chain-Analytics-Platform)
+**SQL Server · Galaxy Schema · ETL**
+
+
+---
+
 ### 🏪 [Superstore Sales Analysis](https://github.com/rashadalaa2000/superstore-powerbi-analytics)
 **SQL Server · Power BI · DAX · Star Schema**
 
 ---
 
-### 🚚 [Supply Chain Analytics & B2B Data Warehouse](https://github.com/rashadalaa2000/Supply-Chain-Analytics-Platform)
-**SQL Server · Star Schema · ETL**
-
-
----
-
-### 🏦 [Banking Transaction Analysis](https://github.com/rashadalaa2000/Banking-Transaction-Analysis)
-**SQL Server · Data Modeling · ERD**
-
-
----
-
 ### 📊 [Business Analytics Case Studies](https://github.com/rashadalaa2000/mini-data-analysis-projects)
 **SQL Server · Power BI · Data Modeling**
-
-
 
 
